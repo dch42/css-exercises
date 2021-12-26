@@ -1,0 +1,20 @@
+p {
+    font-family: "Verdana", sans-serif;
+    background-color: rgb(255, 155, 172)
+}
+
+.twenty-four {
+    font-size: 24px;
+}
+
+#blue-txt {
+    font-family: "Verdana", sans-serif;
+    color: blue;
+    font-size: 36px;
+}
+#green-bg {
+    font-family: "Verdana", sans-serif;
+    background-color: rgb(140, 228, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
